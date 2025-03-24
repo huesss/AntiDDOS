@@ -51,7 +51,7 @@ sudo yum install python3 python3-pip
 Скачайте или клонируйте этот репозиторий на ваш компьютер:
 
 ```bash
-git clone https://github.com/yourusername/anti-ddos.git
+git clone https://github.com/huesss/anti-ddos.git
 cd anti-ddos
 ```
 
